@@ -1,0 +1,93 @@
+
+body{
+
+   
+   background-image: url("hm_2.jpg");
+   -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -moz-background-size:cover;
+    background-size: cover;
+    background-repeat:repeat;
+
+}
+.container-fluid{
+   background-color: transparent;
+  
+
+
+   
+}
+.container{
+    padding:34%;
+    background-color: chocolate;
+}
+
+h1{
+             text-shadow: 3px 3px 8px rgb(58, 29, 29);
+            font-size: 4.5vw;
+            color:rgb(58, 53, 46);
+            font-family:"cursive";
+            font-weight: bold;
+            
+
+} 
+#btnc{
+    background-color: bisque;
+}       
+.row{
+    padding-top:6vw;
+    
+}
+#rw1{
+    padding-bottom: 4vw;
+    background-image:linear-gradient( white,whitesmoke,rgb(233, 233, 233),rgb(192, 190, 190));
+  
+}
+#rw2{
+
+    padding-bottom: 10%;
+    padding-top: 9vw;
+    background-color: rgba(12, 11, 11,0.8);
+}
+#inside{
+    background-color:transparent;
+}
+#rw3{
+    padding-bottom: 5vw;
+    background-image:linear-gradient(rgb(192, 190, 190),rgb(233, 233, 233),whitesmoke,white);
+}
+.btn{
+            padding-left:2vw;
+            padding-right: 2vw;
+            padding-top: 1vw;
+            padding-bottom: 1vw;
+            font-size: 2vw;
+}
+
+#start_bt{
+  
+    background-color: rgba(18, 18, 19, 0.5);
+    border-color:transparent;
+    border-top-left-radius : 0vw;
+    border-bottom-right-radius : 0vw;
+    border-top-right-radius : 1vw;
+    border-bottom-left-radius : 1vw;
+    color: black;
+    font-family:"cursive";
+    border:1px groove rgb(80, 71, 71);
+    background-image: conic-gradient( rgb(116, 116, 114),rgb(80, 77, 77),rgb(91,91,91),rgb(116, 116, 114));
+    
+}
+#join_bt{
+    
+    background-color: rgba(18, 18, 19, 0.5);
+    border-color:transparent;
+    border-top-left-radius : 1vw;
+    border-bottom-right-radius : 1vw;
+    border-top-right-radius : 0vw;
+    border-bottom-left-radius : 0vw;
+    color: black;
+    font-family:"cursive";
+    border:1px groove rgb(80, 71, 71);
+    background-image: conic-gradient( rgb(82, 82, 81),rgb(80, 77, 77),rgb(91,91,91),rgb(116, 116, 114));
+}
